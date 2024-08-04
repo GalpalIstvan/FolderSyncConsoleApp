@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio\\Projects\\folder-sync-console-app\\ConsoleAppFolderSync\\ConsoleAppFolderSync.csproj",
+      "projectUniqueName": "E:\\Visual Studio\\Projects\\FolderSyncConsoleApp\\ConsoleAppFolderSync\\ConsoleAppFolderSync.csproj",
       "projectName": "ConsoleAppFolderSync",
-      "projectPath": "E:\\Visual Studio\\Projects\\folder-sync-console-app\\ConsoleAppFolderSync\\ConsoleAppFolderSync.csproj",
+      "projectPath": "E:\\Visual Studio\\Projects\\FolderSyncConsoleApp\\ConsoleAppFolderSync\\ConsoleAppFolderSync.csproj",
       "packagesPath": "C:\\Users\\Isti\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio\\Projects\\folder-sync-console-app\\ConsoleAppFolderSync\\obj\\",
+      "outputPath": "E:\\Visual Studio\\Projects\\FolderSyncConsoleApp\\ConsoleAppFolderSync\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Visual Studio\\Tools\\NuGetPackages"

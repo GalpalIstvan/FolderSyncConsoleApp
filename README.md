@@ -13,3 +13,5 @@ e.g. ./ConsoleAppFolderSync.exe "C:\Folder Sync\Log Folder" "C:\Folder Sync\Sour
 If the log_folder is not given by the user, the log file will be created in the folder in which the exe file is located (folder-sync-console-app\ConsoleAppFolderSync\bin\Debug\net8.0) and the progress will be stopped.
 If the source_folder or the target_folder is not given, the progress will be stopped.
 If the interval_time is not given, the progress will continue with the interval_time as the default amount, that is in this case 5 seconds.
+
+Depending on the use case of this application, I would change some things to better target the task or further optimize the code. I though about a common use case and I wrote the code according to that. For example, if the source folder is automatically written by another program that uses different names to separate files, you don't need to check if the two files are identical in their body, so there would be no need to check all that, optimizing the code further. Not knowing the use case, however I implemented that part as well.

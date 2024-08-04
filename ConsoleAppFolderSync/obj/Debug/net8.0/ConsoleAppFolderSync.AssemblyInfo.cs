@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppFolderSync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a6eeddaee194dd562977d65b634b9b90fc5341")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c14d8af946e226a21009b83cbc2768f1b7c2fd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppFolderSync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppFolderSync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
